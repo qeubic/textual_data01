@@ -9,7 +9,9 @@ We expect that instructors and students that interact with the textual data on r
 
 Visual Analytics Resource
 https://public.tableau.com/app/profile/qeubic/viz/teaching_race_relations_v002/abstract
+
 The constructed dataset of collection of statements on conversations on race relations topics is available as a spreadsheet file.
+https://github.com/qeubic/textual_data01/blob/main/race_relations_conversations.xlsx
 
 The project relies on content of three open access journal articles:
 1. "Sullivan, J. N., Eberhardt, J. L., & Roberts, S. O. (2021). Conversations about race in Black and White US families: Before and after George Floyd’s death. Proceedings of the National Academy of Sciences, 118(38)". The website for the article and the associated datasets are:  https://www.pnas.org/doi/10.1073/pnas.2106366118 and https://osf.io/esbpk/
