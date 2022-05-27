@@ -12,7 +12,7 @@ https://public.tableau.com/app/profile/qeubic/viz/teaching_race_relations_v002/a
 The constructed dataset of collection of statements on conversations on race relations topics is available as a spreadsheet file.
 
 The project relies on content of three open access journal articles:
-1. "Sullivan, J. N., Eberhardt, J. L., & Roberts, S. O. (2021). Conversations about race in Black and White US families: Before and after George Floyd’s death. Proceedings of the National Academy of Sciences, 118(38)". The website for the article and the associated datasets are: https://www.pnas.org/doi/full/10.1073/pnas.1018067108 and https://osf.io/esbpk/
+1. "Sullivan, J. N., Eberhardt, J. L., & Roberts, S. O. (2021). Conversations about race in Black and White US families: Before and after George Floyd’s death. Proceedings of the National Academy of Sciences, 118(38)". The website for the article and the associated datasets are:  https://www.pnas.org/doi/10.1073/pnas.2106366118 and https://osf.io/esbpk/
 
 2. Cornelissen, J., Höllerer, M. A., & Seidl, D. (2021). What theory is and can be: Forms of theorizing in organizational scholarship. Organization Theory, 2(3), 26317877211020328. https://journals.sagepub.com/doi/full/10.1177/26317877211020328
 
