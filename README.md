@@ -7,6 +7,10 @@ The objective is to make the case for the use of interactive data visualization 
 
 We expect that instructors and students that interact with the textual data on race relations through interactive data visualization software will build conceptualizations that lead to theorizing on race relations. Additionally, interactive textual data visualization can support sequential, iterative and inductive approach to social science research.
 
+Visual Analytics Resource
+https://public.tableau.com/app/profile/qeubic/viz/teaching_race_relations_v002/abstract
+The constructed dataset of collection of statements on conversations on race relations topics is available as a spreadsheet file.
+
 The project relies on content of three open access journal articles:
 1. "Sullivan, J. N., Eberhardt, J. L., & Roberts, S. O. (2021). Conversations about race in Black and White US families: Before and after George Floyd’s death. Proceedings of the National Academy of Sciences, 118(38)". The website for the article and the associated datasets are: https://www.pnas.org/doi/full/10.1073/pnas.1018067108 and https://osf.io/esbpk/
 
